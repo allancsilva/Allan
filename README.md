@@ -9,3 +9,5 @@ Push - envia para o repositorio global (Github)
 Pull - envia para o repositorio local (Arquivos locais)
 
 clonar um repositorio e baixar um repositorio publico, baixar para a minha maquina e versiona-lo
+
+testar
