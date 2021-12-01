@@ -8,3 +8,4 @@ Fetch ele vai no Github e verifica em que ponto esta a versao do software e veri
 Push - envia para o repositorio global (Github)
 Pull - envia para o repositorio local (Arquivos locais)
 
+clonar um repositorio e baixar um repositorio publico, baixar para a minha maquina e versiona-lo
